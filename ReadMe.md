@@ -1,4 +1,4 @@
-# Hướng Dẫn Xây Dựng Data Warehouse - Retail Sales Dataset
+# Xây Dựng Data Warehouse - Retail Sales Dataset
 
 > **Tác giả:** Dự án học tập Data Engineering  
 > **Dataset:** Retail Sales Dataset (1.000 giao dịch, 2023–2024)  
